@@ -6,6 +6,23 @@
 
 😄 Pronouns: he/his/him
 
+🔭 I’m currently working on [Mero Sim](https://github.com/theGBguy/MeroSim) app.
+
+🌱 I’m currently learning Kotlin and Jetpack Compose.
+
+👯 I’m looking to collaborate on your awesome android project.
+
+### 🤝 Connect with me:
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/cgb-pandey/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.facebook.com/C.GB.PN/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.instagram.com/_thegbguy_/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://stackoverflow.com/users/9167710/cgb-pandey"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+
+</p>
+
 <!--
 **theGBguy/theGBguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
