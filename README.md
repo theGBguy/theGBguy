@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Chiranjeevi Pandey 👋
+
+### I'm an Android Developer 📱 and Technology Lover 😘
+
+📫 How to reach me: chiran604@gmail.com
+
+😄 Pronouns: he/his/him
 
 <!--
 **theGBguy/theGBguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=”center”>
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/25641763/140856895-bbcf2cf7-62e2-48fe-9d67-d055a4cf3837.png" alt=”my banner”>
-</p>
+<img src="https://user-images.githubusercontent.com/25641763/140858144-52da08a8-c5fc-4ab5-be7b-d7b7da57a8f4.jpg" width="90%"></img> 
+
+[![Chiranjeevi’s github stats](https://github-readme-stats.vercel.app/api?username=theGBguy)](https://github.com/theGBguy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theGBguy&layout=compact)](https://github.com/theGBguy)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=theGBguy.theGBguy)](https://theGBguy.github.io/)
