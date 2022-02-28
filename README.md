@@ -42,5 +42,3 @@ Here are some ideas to get you started:
 
 [![Chiranjeevi’s github stats](https://github-readme-stats.vercel.app/api?username=theGBguy)](https://github.com/theGBguy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theGBguy&layout=compact)](https://github.com/theGBguy)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=theGBguy.theGBguy)](https://theGBguy.github.io/)
