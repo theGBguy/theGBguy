@@ -1,16 +1,16 @@
 ### Hi there, I am Chiranjeevi Pandey 👋
 
-### I'm an Android Developer 📱 and Technology Lover 😘
+### I'm an Software Developer with deep interest in mobile app development 📱 and Technology Lover 😘
 
 📫 How to reach me: chiran604@gmail.com
 
 😄 Pronouns: he/his/him
 
-🔭 I’m currently working on [Mero Sim](https://github.com/theGBguy/MeroSim) app.
+🔭 I’m currently working on [A to Z Pasal's Bot](https://github.com/sasto-sawari/atozpasal-bot) app.
 
-🌱 I’m currently learning Kotlin and Jetpack Compose.
+🌱 I’m currently learning to build a chat bot using Node.js.
 
-👯 I’m looking to collaborate on your awesome android project.
+👯 I’m looking to collaborate on your awesome project.
 
 ### 🤝 Connect with me:
 
