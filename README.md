@@ -1,6 +1,6 @@
 ### Hi there, I am Chiranjeevi Pandey 👋
 
-### I'm an Software Developer with deep interest in mobile app development 📱 and Technology Lover 😘
+### I'm a Software Developer with deep interest in mobile app development 📱 and Technology Lover 😘
 
 📫 How to reach me: chiran604@gmail.com
 
