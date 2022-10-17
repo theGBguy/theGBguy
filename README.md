@@ -1,6 +1,6 @@
 ### Hi there, I am Chiranjeevi Pandey 👋
 
-### I'm a Software Developer with deep interest in mobile app development 📱 and Technology Lover 😘
+### I'm a Software Engineer with immense interest in Mobile App Development 📱 and a Technology Lover 😘
 
 📫 How to reach me: chiran604@gmail.com
 
@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on [A to Z Pasal's Bot](https://github.com/sasto-sawari/atozpasal-bot) app.
 
-🌱 I’m currently learning to build a chat bot using Node.js.
+🌱 I’m currently building a messenger chat bot using Bottender.js.
 
 👯 I’m looking to collaborate on your awesome project.
 
