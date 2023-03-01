@@ -6,9 +6,9 @@
 
 😄 Pronouns: he/his/him
 
-🔭 I’m currently working on [A to Z Pasal's Bot](https://github.com/sasto-sawari/atozpasal-bot) app.
+🔭 I’m currently working on [Zizi](https://github.com/bantuai/zizi) app.
 
-🌱 I’m currently building a messenger chat bot using Bottender.js.
+🌱 I’m currently building an USSD based solutions.
 
 👯 I’m looking to collaborate on your awesome project.
 
