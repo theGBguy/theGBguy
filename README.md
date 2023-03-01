@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on [Zizi](https://github.com/bantuai/zizi) app.
 
-🌱 I’m currently building an USSD based solutions.
+🌱 I’m currently building an USSD based solution.
 
 👯 I’m looking to collaborate on your awesome project.
 
@@ -17,7 +17,7 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/cgb-pandey/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.facebook.com/C.GB.PN/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.facebook.com/cgb.pandey/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/_thegbguy_/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://stackoverflow.com/users/9167710/cgb-pandey"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
 
