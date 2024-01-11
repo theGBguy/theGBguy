@@ -1,14 +1,10 @@
 ### Hi there, I am Chiranjeevi Pandey 👋
 
-### I'm a Software Engineer with immense interest in Mobile App Development 📱 and a Technology Lover 😘
+### I'm a Software Engineer with huge interest in app development and a tech-lover 💻
 
 📫 How to reach me: chiran604@gmail.com
 
-😄 Pronouns: he/his/him
-
 🔭 I’m currently working on [Zizi](https://github.com/bantuai/zizi) app.
-
-🌱 I’m currently building an USSD based solution.
 
 👯 I’m looking to collaborate on your awesome project.
 
