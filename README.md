@@ -4,7 +4,7 @@
 
 📫 How to reach me: chiran604@gmail.com
 
-🔭 I’m currently working on [Zizi](https://github.com/bantuai/zizi) app.
+🔭 I’m currently working on [KomposeNepaliDatePicker](https://github.com/theGBguy/KomposeNepaliDatePicker) library.
 
 👯 I’m looking to collaborate on your awesome project.
 
