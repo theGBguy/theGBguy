@@ -4,7 +4,7 @@
 
 📫 How to reach me: chiran604@gmail.com
 
-🔭 I’m currently working on [KomposeNepaliDatePicker](https://github.com/theGBguy/KomposeNepaliDatePicker) library.
+🔭 I’m currently working on [MoviesCMP](https://github.com/theGBguy/MoviesCMP), a Compose Multiplatform sample.
 
 👯 I’m looking to collaborate on your awesome project.
 
