@@ -4,7 +4,7 @@
 
 📫 How to reach me: chiran604@gmail.com
 
-🔭 I’m currently working on [MoviesCMP](https://github.com/theGBguy/MoviesCMP), a Compose Multiplatform sample.
+🔭 I’m currently working on [BarabiseyApp](https://github.com/theGBguy/BarabiseyApp), a Compose Multiplatform app which helps community members stay informed about events and government notices.
 
 👯 I’m looking to collaborate on your awesome project.
 
