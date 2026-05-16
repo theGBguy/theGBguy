@@ -1,38 +1,28 @@
-### Hi there, I am Chiranjeevi Pandey 👋
+### Hi there, I'm Chiranjeevi Pandey 👋
 
-### I'm a Software Engineer with huge interest in app development and a tech-lover 💻
+### Android Developer · Indie Hacker · KMP Enthusiast 💻
 
-📫 How to reach me: chiran604@gmail.com
+I'm a software engineer with 5 years of experience building mobile apps. Currently on the mobile team at **Spiralogics**, and shipping indie apps on the side.
 
-🔭 I’m currently working on [BarabiseyApp](https://github.com/theGBguy/BarabiseyApp), a Compose Multiplatform app which helps community members stay informed about events and government notices.
+- 🚀 **Building:** [ProperPDF](https://nepali-indie-dev.github.io/properpdf) — a privacy-first PDF utility app with on-device AI chat
+- 🌱 **Currently exploring:** Shipping profitable mobile apps from scratch
+- 💬 **Ask me about:** Kotlin, Jetpack Compose, KMP, Flutter, .NET MAUI, ASO, or shipping indie apps
+- 👯 **Open to collaborating** on indie mobile projects, especially in the productivity/utilities space
+- 📫 **Reach me:** chiran604@gmail.com
 
-👯 I’m looking to collaborate on your awesome project.
+### 🛠️ Tech Stack
 
-### 🤝 Connect with me:
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 🤝 Connect with me
 <p align="center">
-
   <a href="https://www.linkedin.com/in/cgb-pandey/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.facebook.com/cgb.pandey/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/_thegbguy_/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://stackoverflow.com/users/9167710/cgb-pandey"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-
 </p>
-
-<!--
-**theGBguy/theGBguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Chiranjeevi’s github stats](https://github-readme-stats.vercel.app/api?username=theGBguy)](https://github.com/theGBguy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theGBguy&layout=compact)](https://github.com/theGBguy)
