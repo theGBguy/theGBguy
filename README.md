@@ -4,7 +4,7 @@
 
 I'm a software engineer with 5 years of experience building mobile apps. Currently on the mobile team at **Spiralogics**, and shipping indie apps on the side.
 
-- 🚀 **Building:** [ProperPDF](https://nepali-indie-dev.github.io/properpdf) — a privacy-first PDF utility app with on-device AI chat
+- 🚀 **Building:** [ProperPDF](https://tryproperpdf.app) — a privacy-first PDF utility app with on-device AI chat
 - 🌱 **Currently exploring:** Shipping profitable mobile apps from scratch
 - 💬 **Ask me about:** Kotlin, Jetpack Compose, KMP, Flutter, .NET MAUI, ASO, or shipping indie apps
 - 👯 **Open to collaborating** on indie mobile projects, especially in the productivity/utilities space
